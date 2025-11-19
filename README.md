@@ -4,7 +4,7 @@ This repo contains a set of revenue management (RM) examples applied to the rent
 ### Organization
 This repo contains the following files:
 
-1. **Rental-Car-RM-COMPLETE.ipynb:** This is a complete notebook with all code complete for all the scenarios. Provided for reference.
+1. **Rental-Car-RM-COMPLETE.ipynb:** This is the completed notebook - all code complete for all the scenarios. Provided for reference.
 2. **Rental-Car-RM-LEARNER.ipynb:** This is an incomplete notebook with certain sections to be completed by workshop participants as exercises.
 3. **single-loc-rm.csv:** This is a data set for the single-location scenario.
 4. **multi-loc-rm.csv:** This is a data set for the static multi-location scenarios.
