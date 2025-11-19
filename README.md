@@ -1,4 +1,4 @@
-# Rental Car Revenue Management Examples
+# Rental Car Revenue Management
 This repo contains a set of revenue management (RM) examples applied to the rental car industry. It provides a series of scenarios of increasing complexity, beginning with a single-location rental car setup and progressing to one that supports multiple locations with truck-based car transfer, dynamic prices, and fluctuating demand. These examples focus on the capacity allocation aspect of RM and were developed for a hands-on workshop given to [Optimization4All](https://optimization4all.com/) on December 3, 2025.
 
 ### Organization
